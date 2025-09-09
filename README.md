@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/gh-views?username=27Naman2004&label=Profile%20Views&color=0e75b6&style=flat" alt="27Naman2004" /> 
-  <img src="https://komarev.com/ghpvc/?username=27Naman2004&label=Profile%20Views&color=0e75b6&style=flat" alt="27Naman2004" />
+  <img src="https://avatars.githubusercontent.com/u/27Naman2004?v=4" alt="Naman's Profile Picture" width="150" />
 </p>
+
 
 ---
 
