@@ -67,9 +67,9 @@
 ## 🚀 Projects & Contributions
 
 ### 🔨 Recent Projects
-- **Project 1**: Brief description of your project
-- **Project 2**: Brief description of your project
-- **Project 3**: Brief description of your project
+- **Project 1**: Movie Recommendation System
+- **Project 2**: Pollution Analysis Dashboard
+- **Project 3**: Heart Disease Prediction Model
 
 ### 🌱 Currently Learning
 - Advanced Data Structures & Algorithms
