@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/27Naman2004?v=4" alt="Naman's Profile Picture" width="150" />
+  <img src="[https://avatars.githubusercontent.com/u/27Naman2004?v=4](https://github.com/27Naman2004/27Naman2004/blob/main/WhatsApp%20Image%202025-07-23%20at%208.32.55%20AM.jpeg)" alt="Naman's Profile Picture" width="150" />
 </p>
 
 
