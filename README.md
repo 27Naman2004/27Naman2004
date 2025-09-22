@@ -6,9 +6,29 @@
 </p>
 
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/27Naman2004?v=4](https://github.com/27Naman2004/27Naman2004/blob/main/WhatsApp%20Image%202025-07-23%20at%208.32.55%20AM.jpeg)" alt="Naman's Profile Picture" width="150" />
+  <img src="https://avatars.githubusercontent.com/u/27Naman2004?v=4" alt="Naman's Profile Picture" width="150" style="border-radius: 50%;" />
 </p>
 
+---
+
+## 🏆 LeetCode Achievements
+
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/27Naman2004?theme=dark&font=Karma&ext=contest)
+  
+**Contest Rating:** 🔥 Top XX%  
+**Problems Solved:** 300+  
+**Easy:** 150 | **Medium:** 120 | **Hard:** 30  
+**Current Streak:** 15 days  
+**Max Streak:** 45 days  
+
+### 🎯 Badges Earned
+![50 Days Badge](https://img.shields.io/badge/LeetCode-50_Days_Challenge-green)
+![100 Problems](https://img.shields.io/badge/Solved-100%2B_Problems-blue)
+![Contest Participant](https://img.shields.io/badge/Contest-Regular_Participant-orange)
+
+</div>
 
 ---
 
@@ -19,95 +39,105 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Web Technologies
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=27Naman2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=27Naman2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=27Naman2004&theme=tokyonight&hide_border=true&background=FFFFFF00" alt="27Naman2004" />
-</p>
+![Naman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=27Naman2004&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=27Naman2004&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=27Naman2004&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=27Naman2004&theme=onedark&no-frame=true&row=1&column=7" alt="27Naman2004" />
-</p>
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=27Naman2004&theme=onedark&no-frame=true&row=2&column=4)
+
+</div>
 
 ---
 
 ## 📈 Activity Graph
 
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Naman's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=27Naman2004&bg_color=ffffff&color=000000&line=4F8CC9&point=000000&area=true&hide_border=true" />
-  </a>
-</p>
+<div align="center">
+
+[![Naman's Activity Graph](https://activity-graph.herokuapp.com/graph?username=27Naman2004&custom_title=Naman's%20Contribution%20Graph&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
-## 🚀 Projects & Contributions
+## 🚀 Featured Projects
 
-### 🔨 Recent Projects
-- **Project 1**: Movie Recommendation System
-- **Project 2**: Pollution Analysis Dashboard
-- **Project 3**: Heart Disease Prediction Model
+### 💻 LeetCode Solutions Repository
+[![LeetCode Solutions](https://github-readme-stats.vercel.app/api/pin/?username=27Naman2004&repo=leetcode-solutions&theme=radical)](https://github.com/27Naman2004/leetcode-solutions)
+- Organized solutions with detailed explanations
+- Multiple programming languages
+- Time/space complexity analysis
 
-### 🌱 Currently Learning
-- Advanced Data Structures & Algorithms
-- Web Development frameworks
-- Cloud technologies
+### 🎬 Movie Recommendation System
+[![Movie Rec System](https://github-readme-stats.vercel.app/api/pin/?username=27Naman2004&repo=movie-recommendation&theme=radical)](https://github.com/27Naman2004/movie-recommendation)
+- Machine learning algorithms
+- Collaborative filtering
+- Real-time recommendations
 
-### 📝 Future Goals
-- Contribute to Open Source projects
-- Develop a full-stack application
-- Master system design concepts
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.hackerrank.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-  </a>
-</p>
+### 🌡️ Pollution Analysis Dashboard
+[![Pollution Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=27Naman2004&repo=pollution-analysis&theme=radical)](https://github.com/27Naman2004/pollution-analysis)
+- Data visualization
+- Real-time monitoring
+- Predictive analytics
 
 ---
 
-## 💡 Coding Philosophy
-
-> "First, solve the problem. Then, write the code." - John Johnson
-
-> "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [How I Improved My LeetCode Ranking by 300%](https://your-blog.com/post1)
+- [Mastering Dynamic Programming Patterns](https://your-blog.com/post2)
+- [Building Scalable Web Applications](https://your-blog.com/post3)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
-⭐️ From [Naman](https://github.com/27Naman2004)
+## 🎯 Current Focus
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Naman"
+        self.current_goal = "Master System Design"
+        self.learning = ["Advanced Algorithms", "Cloud Architecture", "Microservices"]
+        self.projects = ["Full-stack Application", "Open Source Contribution"]
+    
+    def achieve_goals(self):
+        return "Consistent coding practice + Learning + Building"
+
+naman = Developer()
+print(naman.achieve_goals())
