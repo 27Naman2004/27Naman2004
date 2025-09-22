@@ -20,11 +20,11 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/N_katare?theme=light&font=Karma)
 
 **Current Progress:**
-- **Total Solved:** 56 problems
-- **Easy:** 30 problems
-- **Medium:** 25 problems  
-- **Hard:** 1 problem
-- **Acceptance Rate:** 67.9%
+- **Total Solved:** 350 problems
+- **Easy:** 183 problems
+- **Medium:** 125 problems  
+- **Hard:** 20 problem
+- **Acceptance Rate:** 70.9%
 
 **Recent Activity:**
 - Active problem solver
@@ -38,7 +38,7 @@
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-![Java](https://img.shields.io/badge/Java-Expert-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Intermediate-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -86,10 +86,15 @@
 - **Tech Stack:** Python, Scikit-learn, Healthcare Data
 - **Status:** Completed
 
+### 💻 gitfind
+- **Description:** Built Own python library name gitfind to fectch all importance and built a short summary of that repo
+- **Tech Stack:** Python
+- **Status:** Completed(More version Soon)
+
 ### 💻 LeetCode Solutions
 - **Description:** My personal repository of LeetCode problem solutions
-- **Tech Stack:** Java, Python, C++
-- **Status:** Ongoing (56+ solutions)
+- **Tech Stack:** Java, Python, C++,JavaScript
+- **Status:** Ongoing (330+ solutions)
 
 ---
 
@@ -100,6 +105,7 @@
 - [ ] Master 50+ Medium difficulty problems
 - [ ] Improve contest participation
 - [ ] Learn Spring Boot framework
+- [ ] covert gitfind to major Project
 
 ### 🔄 Daily Routine
 - Solve at least 1 LeetCode problem daily
@@ -138,7 +144,7 @@
 
 ## 🏅 Recent Achievements
 
-- ✅ **56 LeetCode problems** solved and counting
+- ✅ **350 LeetCode problems** solved and counting
 - ✅ **Strong Java foundation** with practical experience  
 - ✅ **Multiple completed projects** showcasing diverse skills
 - ✅ **Active learning** in data structures and algorithms
