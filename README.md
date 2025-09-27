@@ -4,9 +4,6 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/27Naman2004?v=4" alt="Naman's Profile" width="150" style="border-radius: 50%;" />
 </p>
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=27Naman2004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</p>
 
 
 <p align="center">
