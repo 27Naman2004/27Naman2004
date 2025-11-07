@@ -21,11 +21,11 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/N_katare?theme=light&font=Karma)
 
 **Current Progress:**
-- **Total Solved:** 350 problems
-- **Easy:** 183 problems
-- **Medium:** 125 problems  
-- **Hard:** 20 problem
-- **Acceptance Rate:** 70.9%
+- **Total Solved:** 200 problems
+- **Easy:** 201 problems
+- **Medium:** 158 problems  
+- **Hard:** 43 problem
+- **Acceptance Rate:** 71.45%
 
 **Recent Activity:**
 - Active problem solver
