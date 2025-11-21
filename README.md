@@ -21,9 +21,9 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/N_katare?theme=light&font=Karma)
 
 **Current Progress:**
-- **Total Solved:** 200 problems
-- **Easy:** 201 problems
-- **Medium:** 158 problems  
+- **Total Solved:** 422 problems
+- **Easy:** 212 problems
+- **Medium:** 168 problems  
 - **Hard:** 43 problem
 - **Acceptance Rate:** 71.45%
 
