@@ -187,7 +187,7 @@ I'm a passionate developer with strong problem-solving skills and expertise in J
 [![LeetCode](https://img.shields.io/badge/LeetCode-Follow%20Progress-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/N_katare/)
 [![GitHub](https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/27Naman2004)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:27naman2004@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](#https://knownaman.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://knownaman.vercel.app/)
 
 </div>
 
