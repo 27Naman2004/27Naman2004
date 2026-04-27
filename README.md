@@ -24,10 +24,9 @@ I am a **Full-Stack Developer** with a strong foundation in **Java, Data Structu
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/N_katare?theme=light&font=Karma&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Naman_Katare?theme=light&font=Karma&ext=contest)
 
-</div>
-
+</div align="center">
 | Metric | Value |
 |--------|------|
 | Problems Solved | **422** |
@@ -38,6 +37,7 @@ I am a **Full-Stack Developer** with a strong foundation in **Java, Data Structu
 | Ranking | **Top 15%** |
 
 ---
+<div></div>
 
 ## 💻 Technical Skills
 
