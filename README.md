@@ -27,17 +27,7 @@ I am a **Full-Stack Developer** with a strong foundation in **Java, Data Structu
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Naman_Katare?theme=light&font=Karma&ext=contest)
 
 </div align="center">
-| Metric | Value |
-|--------|------|
-| Problems Solved | **422** |
-| Easy | 212 |
-| Medium | 168 |
-| Hard | 43 |
-| Acceptance Rate | **71.45%** |
-| Ranking | **Top 15%** |
 
----
-<div></div>
 
 ## 💻 Technical Skills
 
