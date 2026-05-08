@@ -1,133 +1,84 @@
-<h1 align="center">Naman Katare</h1>
-<h3 align="center">Full-Stack Developer · Java · Machine Learning · Problem Solver</h3>
+<h1 align="center">Hi, I'm Naman Katare 👋</h1>
 
-<div align="center">
+<p align="center">
+  <b>Full-Stack Developer &nbsp;·&nbsp; Java Enthusiast &nbsp;·&nbsp; ML Explorer &nbsp;·&nbsp; Problem Solver</b>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=27Naman2004&color=blue&style=flat-square)
-![Followers](https://img.shields.io/github/followers/27Naman2004?style=social)
-
-</div>
-
----
-
-## 🚀 About Me
-
-I am a **Full-Stack Developer** with a strong foundation in **Java, Data Structures, and Algorithms**, and hands-on experience in building scalable and efficient applications.
-
-- Solved **400+ problems** on LeetCode (Top 15%)
-- Focused on **clean architecture and maintainable systems**
-- Exploring **System Design, Microservices, and ML Deployment**
+<p align="center">
+  <a href="https://www.linkedin.com/in/naman-katare-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/N_katare/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
+  <a href="https://github.com/27Naman2004"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="mailto:27naman2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=27Naman2004&color=blue&style=flat-square"/>
+</p>
 
 ---
 
-## 🏆 Competitive Programming
+## 👨‍💻 About Me
 
-<div align="center">
+- 🔭 Building scalable full-stack applications with a focus on **clean architecture**
+- 💡 Exploring **System Design**, **Microservices**, and **ML Deployment**
+- 🧠 Solved **400+ problems** on LeetCode — Top 15%
+- 🌱 Currently learning **Spring Boot**, **React**, and **Cloud/DevOps**
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Naman_Katare?theme=light&font=Karma&ext=contest)
-
-</div align="center">
-
-
-## 💻 Technical Skills
-
-### Languages
-- **Java (Primary)**
-- Python
-- JavaScript
-- C++
-
-### Frameworks & Tools
-- Spring Boot *(Learning)*
-- React *(Learning)*
-- Git, GitHub
-- VS Code, IntelliJ IDEA
-
-### Core Areas
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- System Design *(Learning)*
-- Web Development
+> *"Code should not only work — it should be efficient, readable, and maintainable."*
 
 ---
 
-## 📊 GitHub Analytics
+## 🛠️ Tech Stack
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=27Naman2004&show_icons=true&theme=algolia&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=27Naman2004&layout=compact&theme=algolia&hide_border=true"/>
-
-</div>
+| Category | Technologies |
+|---|---|
+| **Languages** | Java (Primary), Python, JavaScript, C++ |
+| **Frameworks** | Spring Boot *(learning)*, React *(learning)* |
+| **Tools** | Git, GitHub, VS Code, IntelliJ IDEA |
+| **Core Areas** | DSA, OOP, System Design, Web Development |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎬 Movie Recommendation System
-- Personalized recommendation engine using collaborative and content-based filtering  
-- Built with Python, Pandas, Scikit-Learn  
+### 🎬 [Movie Recommendation System](https://github.com/27Naman2004)
+Personalized recommendation engine using collaborative & content-based filtering. Built with **Python, Pandas, Scikit-Learn**.
+
+### ❤️ [Heart Disease Prediction](https://github.com/27Naman2004)
+ML model for disease risk prediction using ensemble techniques, focused on accuracy over real-world healthcare data.
+
+### 🌍 [Pollution Analysis Dashboard](https://github.com/27Naman2004)
+Interactive real-time pollution visualization dashboard built with **Plotly & Dash**.
+
+### 🔍 [GitFind — Repository Analyzer](https://github.com/27Naman2004)
+Python library for GitHub repository analysis and automated summaries. **Published on PyPI**.
 
 ---
 
-### ❤️ Heart Disease Prediction
-- Machine learning model for predicting disease risk using ensemble techniques  
-- Focus on accuracy and real-world healthcare data  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=27Naman2004&show_icons=true&theme=algolia&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=27Naman2004&layout=compact&theme=algolia&hide_border=true"/>
+</p>
 
 ---
 
-### 🌍 Pollution Analysis Dashboard
-- Interactive visualization dashboard for real-time pollution analysis  
-- Built using Plotly and Dash  
+## 🏆 Competitive Programming
 
----
-
-### 🔍 GitFind — Repository Analyzer
-- Python library for GitHub repository analysis and automated summaries  
-- Published on PyPI  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Naman_Katare?theme=light&font=Karma&ext=contest"/>
+</p>
 
 ---
 
 ## 📈 Current Focus
 
-- System Design & Scalable Architectures  
-- Spring Boot & Microservices  
-- Database Optimization  
-- Machine Learning Deployment  
-- Cloud & DevOps Practices  
+- ⚙️ System Design & Scalable Architectures
+- 🌱 Spring Boot & Microservices
+- 🗄️ Database Optimization
+- 🤖 Machine Learning Deployment
+- ☁️ Cloud & DevOps Practices
 
 ---
 
-## 🏅 Achievements
-
-- Solved **400+ LeetCode problems**
-- Consistent competitive programming practice
-- Built multiple real-world projects across ML & Web
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naman-katare-/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/N_katare/)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github)](https://github.com/27Naman2004)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:27naman2004@gmail.com)
-
-</div>
-
----
-
-## 💡 Philosophy
-
-> *Code should not only work — it should be efficient, readable, and maintainable.*
-
----
-
-<div align="center">
-
-⭐ Explore my repositories to see my work  
-🚀 Always learning, always building  
-
-</div>
+<p align="center">
+  ⭐ <i>Explore my repositories to see my work</i> &nbsp;·&nbsp; 🚀 <i>Always learning, always building</i>
+</p>
