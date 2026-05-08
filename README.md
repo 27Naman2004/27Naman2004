@@ -55,8 +55,12 @@ Python library for GitHub repository analysis and automated summaries. **Publish
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=27Naman2004&show_icons=true&theme=algolia&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=27Naman2004&layout=compact&theme=algolia&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=27Naman2004&show_icons=true&theme=algolia&hide_border=true&cache_seconds=1800"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=27Naman2004&layout=compact&theme=algolia&hide_border=true&cache_seconds=1800"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=27Naman2004&theme=algolia&hide_border=true"/>
 </p>
 
 ---
