@@ -92,7 +92,7 @@ public class NamanKatare extends Developer {
 <td width="50%" valign="top">
 
 ### 🎬 Movie Recommendation System
-[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/27Naman2004)
+[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/27Naman2004/movie-recommendation)
 
 Personalized recommendation engine leveraging **collaborative & content-based filtering** to deliver highly relevant suggestions.
 
@@ -102,7 +102,7 @@ Personalized recommendation engine leveraging **collaborative & content-based fi
 <td width="50%" valign="top">
 
 ### ❤️ Heart Disease Prediction
-[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/27Naman2004)
+[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/27Naman2004/heart-disease-prediction)
 
 ML model predicting cardiovascular disease risk using **ensemble techniques** on real-world healthcare data, prioritizing precision and recall.
 
