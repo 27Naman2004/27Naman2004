@@ -46,7 +46,7 @@ public class NamanKatare extends Developer {
 - 🧠 &nbsp;Solved **400+ problems** on LeetCode — ranked in the **Top 15%** globally
 - 💡 &nbsp;Deep-diving into **System Design**, **Microservices**, and **ML Deployment**
 - 🌱 &nbsp;Currently leveling up with **Spring Boot**, **React**, and **Cloud/DevOps**
-- 📫 &nbsp;Reach me at **27naman2004@gmail.com**
+- 📫 &nbsp;Reach me at **katare2004@gmail.com**
 
 ---
 
@@ -159,7 +159,7 @@ Python library for GitHub repository analysis and automated summaries. **Officia
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/N_katare?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=10)](https://leetcode.com/u/N_katare/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/N_katare?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=10)](https://leetcode.com/u/Naman_katare/)
 
 ![LeetCode Badge](https://img.shields.io/badge/LeetCode-400%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![LeetCode Rank](https://img.shields.io/badge/Global_Rank-Top_15%25-00D4FF?style=for-the-badge&logo=leetcode&logoColor=white)
