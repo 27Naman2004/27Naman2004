@@ -12,9 +12,9 @@
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-katare-/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/N_katare/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Naman_Katare/)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/27Naman2004)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:27naman2004@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katare2004@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=27Naman2004&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/27Naman2004)
 
 </div>
@@ -159,7 +159,7 @@ Python library for GitHub repository analysis and automated summaries. **Officia
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/N_katare?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=10)](https://leetcode.com/u/Naman_katare/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Naman_Katare?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=10)](https://leetcode.com/u/Naman_Katare/)
 
 ![LeetCode Badge](https://img.shields.io/badge/LeetCode-400%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![LeetCode Rank](https://img.shields.io/badge/Global_Rank-Top_15%25-00D4FF?style=for-the-badge&logo=leetcode&logoColor=white)
